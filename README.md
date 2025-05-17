@@ -67,7 +67,8 @@ This project contains code from other projects. The original license text is inc
 # My-CSE211-Project
 <<<<<<< HEAD
 # Real-Time Clock and Analog Signal Display with Nucleo Board
-
+#Link of the video🥰🥰:
+Click here>>
 [Project Demonstration](https://drive.google.com/file/d/1a5-6-lx1gGz0rocJ5X8RKrLVmOLAT9_K/view?usp=drivesdk)
 
 ## Project Overview

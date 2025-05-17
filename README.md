@@ -65,6 +65,7 @@ The software is provided under Apache-2.0 license. Contributions to this project
 This project contains code from other projects. The original license text is included in those source files. They must comply with our license guide.
 =======
 # My-CSE211-Project
+<<<<<<< HEAD
 # Real-Time Clock and Analog Signal Display with Nucleo Board
 
 ![Project Demonstration](https://drive.google.com/file/d/1a5-6-lx1gGz0rocJ5X8RKrLVmOLAT9_K/view?usp=drivesdk)
@@ -121,3 +122,5 @@ This project implements two main functionalities using a **Nucleo board** with a
 
 
 >>>>>>> 287ed3d83cbf48240b515b92e94d321a17764620
+=======
+>>>>>>> 101610178de6fe14cccca14bc4b44117896945cd

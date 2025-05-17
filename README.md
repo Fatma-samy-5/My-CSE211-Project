@@ -71,6 +71,7 @@ This project contains code from other projects. The original license text is inc
 Click here>>
 [Project Demonstration](https://drive.google.com/file/d/1a5-6-lx1gGz0rocJ5X8RKrLVmOLAT9_K/view?usp=drivesdk)
 
+Photos:[Click here](https://github.com/user-attachments/assets/b08f5873-c797-41bc-8e5b-3e91e0bd2bc5)
 ## Project Overview
 This project implements two main functionalities using a **Nucleo board** with an **Arduino multifunction shield**:
 1. **Real-Time Clock (RTC)** - Displays elapsed time in MM:SS format

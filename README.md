@@ -68,7 +68,7 @@ This project contains code from other projects. The original license text is inc
 <<<<<<< HEAD
 # Real-Time Clock and Analog Signal Display with Nucleo Board
 
-![Project Demonstration](https://drive.google.com/file/d/1a5-6-lx1gGz0rocJ5X8RKrLVmOLAT9_K/view?usp=drivesdk)
+[Project Demonstration](https://drive.google.com/file/d/1a5-6-lx1gGz0rocJ5X8RKrLVmOLAT9_K/view?usp=drivesdk)
 
 ## Project Overview
 This project implements two main functionalities using a **Nucleo board** with an **Arduino multifunction shield**:
